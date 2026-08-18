@@ -1,0 +1,35 @@
+.nav-bar
+{
+    height: 56px;
+    width: 100%;
+    background-color: aqua;
+    padding: 2px;
+}
+
+.list
+{
+    padding: 2px;
+}
+
+.li
+{
+    display: inline-block;
+    
+}
+
+.li a
+{
+    text-decoration: none;
+    padding: 20px;
+}
+
+.li a:hover
+{
+    background-color: rgb(177, 167, 167);
+}
+
+.list form
+{
+    float: right;
+    margin-right: 10px;
+}

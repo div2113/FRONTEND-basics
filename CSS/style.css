@@ -1,0 +1,18 @@
+
+body
+{
+    background-color: bisque;
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+h1
+{
+    color: chocolate;
+    font-family: 'Times New Roman';
+}
+
+p
+{
+    font-display: block;
+}
